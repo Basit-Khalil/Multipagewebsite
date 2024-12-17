@@ -2,7 +2,7 @@ import React from 'react'
 
 function contact() {
   return (
-    <div>
+    <div className='contactpage'>
       <section className='contact-form'>
         <h2 className='fade-in' >Contact Us</h2>
       <form>
