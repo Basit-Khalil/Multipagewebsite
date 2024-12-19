@@ -16,7 +16,6 @@ function Footer() {
         >
           <FaInstagram style={{ fontSize: '20px' }} />
         </a>
-        <h1 className='crafted'>Crafted with <div className="heart-icon"><CiHeart /></div> by Basit Khalil</h1>
       </div>
     </footer>
   );
